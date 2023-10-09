@@ -6,6 +6,11 @@ nav {
 	height: 100px;
 }
 
+img { 
+	width = 400;
+	height = 600;
+}
+
 ul {
 	list-style-type: none;
 	margin: 0;
