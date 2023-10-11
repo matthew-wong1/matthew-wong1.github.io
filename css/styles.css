@@ -1,0 +1,9 @@
+nav {
+	background-color: #a08e73;
+	height: 75px;
+	border: 0;
+}
+
+ul#nav-txt {
+  font-weight: bold;
+} 
